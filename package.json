@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeIshan/thinkboard-mern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeIshan/thinkboard-mern/issues"
+  },
+  "homepage": "https://github.com/codeIshan/thinkboard-mern#readme"
 }
